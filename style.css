@@ -5,11 +5,12 @@
 body{
   background-color: #F6F6F6;
 }
-table{
+table, p{
   border-width: 1px 0 0 0 !important;
+  color: white !important;
 }
 .bg{
-  background: #e7e1e1;
+  background: #8b8383;
   margin-top: -40px;
 }
 .img img {
