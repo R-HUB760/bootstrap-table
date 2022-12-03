@@ -1,0 +1,25 @@
+.cen{
+  min-height: 100vh;
+}
+
+body{
+  background-color: #F6F6F6;
+}
+table{
+  border-width: 1px 0 0 0 !important;
+}
+.bg{
+  background: #f6f1f1;
+  margin-top: -40px;
+}
+.img img {
+  max-width: 80px;
+}
+
+.type li{
+  list-style-type: none;
+}
+.ok-mark li::before {
+  content: " \2713";
+  padding-right: 4px;
+}
